@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey 👋, This is Hesam Mohammadi
+[![Linkedin Badge](https://img.shields.io/badge/-hesammohammadi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hesammohammadi/)](https://www.linkedin.com/in/hesammohammadi/) 
+[![Github Badge](https://img.shields.io/badge/-hmohammadi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hmohammadi/)](https://www.github.com/hmohammadi/) <p align='left'>An expert PHP developer with about 5 years of experience in WordPress. Experienced in remote works. Avid free software lover and contributor. I'm always looking forward to learning more and improving my knowledge and skills. I like to challenge myself by using my knowledge to create new software or invent new stuff that people shall use and remember me by. Obtaining a job position that allows me to take pleasure from working is my main professional life goal.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=hmohammadi alt=hmohammadi /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hmohammadi&show_icons=true&include_all_commits=true)](https://github.com/hmohammadi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmohammadi&layout=compact)](https://github.com/hmohammadi/github-readme-stats)
 
 <!--
 **hmohammadi/hmohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
