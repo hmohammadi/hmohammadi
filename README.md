@@ -4,7 +4,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hmohammadi alt=hmohammadi /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hmohammadi&show_icons=true&include_all_commits=true)](https://github.com/hmohammadi/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hmohammadi&show_icons=true&include_all_commits=true&hide_title=1)](https://github.com/hmohammadi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmohammadi&layout=compact)](https://github.com/hmohammadi/github-readme-stats)
 
 <!--
