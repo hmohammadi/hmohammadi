@@ -1,23 +1,20 @@
-### Hey 👋, This is Hesam Mohammadi
-[![Linkedin Badge](https://img.shields.io/badge/hesam--mohammadi-0072b1?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=&logoColor=white&link=https://www.linkedin.com/in/hesam-mohammadi/)](https://www.linkedin.com/in/hesam-mohammadi/) 
-[![Github Badge](https://img.shields.io/badge/-hmohammadi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hmohammadi/)](https://www.github.com/hmohammadi/) <p align='left'>As an expert PHP developer with about 7+ years of experience in WordPress, and an Avid free software lover and contributor, I'm always looking forward to learning more and improving my knowledge and skills. I was lucky enough to be a part of various projects, both on-site and remote. I like to challenge my knowledge by creating new software or inventing new and innovative solutions that people can incorporate into their work and remember me as the one who made their job easier.</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hmohammadi alt=hmohammadi /> </p>
+# Hesam Mohammadi
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hmohammadi&show_icons=true&include_all_commits=true&hide_title=1)](https://github.com/hmohammadi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmohammadi&layout=compact)](https://github.com/hmohammadi/github-readme-stats)
+Full-stack developer in Leeds, UK. I build AI agents, RAG and ML systems that run in production, and I work with coding agents every day (Claude Code and Codex). Mostly Python and TypeScript.
 
-<!--
-**hmohammadi/hmohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My production AI work belongs to my employer, so it isn't on this profile. What you can see here is open-source work and personal projects.
 
-Here are some ideas to get you started:
+## Open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Two merged fixes to an open-source spec-driven development toolkit maintained by GitHub: [#4581](https://github.com/github/spec-kit/pull/4581) and [#4668](https://github.com/github/spec-kit/pull/4668). Its workflow engine sent command-line flags that two coding agents don't support, so every workflow step aimed at them failed before the agent ran. I filed a bug report for each, fixed the dispatch in Python and added regression tests.
+
+## Personal projects
+
+- **yt-mcp-server**: an MCP server for YouTube research and analytics. Private for now. I can walk through it on request.
+- **Sogi Studio**: a multi-agent team for a small art business, with a skill package for each role. Tested locally, not deployed yet.
+
+## Earlier work
+
+The older repositories on this profile are WordPress and PHP plugins I wrote between 2014 and 2021.
+
+[LinkedIn](https://www.linkedin.com/in/hesam-mohammadi/)
